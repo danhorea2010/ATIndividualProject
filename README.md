@@ -5,6 +5,7 @@ The project uses a light sensor to turn on a button when the signal read by the 
 The circuit uses two push-buttons to calibrate the threshold, making it usable in multiple light conditions. 2 digital input pins are used for the push-buttons' input, as well as one analog input for the light sensor. Another pin is used for digital output, turning on the LED when the condition is met.
 
 # Schematic
+![circuit](circuit.png)
 
 # Prerequisites
 
